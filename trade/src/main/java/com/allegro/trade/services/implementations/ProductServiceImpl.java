@@ -1,9 +1,11 @@
-package com.allegro.trade.services;
+package com.allegro.trade.services.implementations;
 
 import com.allegro.trade.domain.Product;
 
 import java.math.BigDecimal;
 import java.util.*;
+
+import com.allegro.trade.services.ProductService;
 import org.springframework.stereotype.Service;
 
 @Service

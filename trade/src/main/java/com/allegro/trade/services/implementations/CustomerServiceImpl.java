@@ -1,8 +1,10 @@
-package com.allegro.trade.services;
+package com.allegro.trade.services.implementations;
 
 import com.allegro.trade.domain.Customer;
 
 import java.util.*;
+
+import com.allegro.trade.services.CustomerService;
 import org.springframework.stereotype.Service;
 
 @Service
